@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "5 Problem Solving Tips for Programmers"
-date:       2018-01-25 21:26:28 +0000
+date:       2018-01-25 16:26:29 -0500
 permalink:  5_problem_solving_tips_for_programmers
 ---
 
